@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624631741 source:c:\users\kareem mohamed\desktop\binary_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
